@@ -1,0 +1,53 @@
+Country,EV_sales_share_imputed,EV_stock_share_imputed,EV_stock_imputed,Public_slow_chargers_imputed,Public_fast_chargers_imputed,Population_imputed,GDP_per_capita_PPP_imputed,Electric_power_consumption_imputed,Low_carbon_electricity_share_imputed,Renewable_installed_capacity_share_imputed,Renewable_generation_share_imputed
+Australia,False,False,False,False,False,False,False,False,False,False,False
+Austria,False,False,False,False,False,False,False,False,False,False,False
+Belgium,False,False,False,False,False,False,False,False,False,False,False
+Brazil,False,False,False,False,False,False,False,False,False,False,False
+Bulgaria,False,True,True,True,True,False,False,False,False,False,False
+Canada,False,False,False,False,False,False,False,False,False,False,False
+Chile,False,False,False,False,False,False,False,False,False,False,False
+China,False,False,False,False,False,False,False,False,False,False,False
+Colombia,False,False,False,False,False,False,False,False,False,False,False
+Costa Rica,False,False,False,False,False,False,False,False,False,False,False
+Croatia,False,True,True,True,True,False,False,False,False,False,False
+Cyprus,False,True,True,True,True,False,False,False,False,False,False
+Czech Republic,False,True,True,True,True,False,False,False,False,False,False
+Denmark,False,False,False,False,False,False,False,False,False,False,False
+Estonia,False,True,True,True,True,False,False,False,False,False,False
+Finland,False,False,False,False,False,False,False,False,False,False,False
+France,False,False,False,False,False,False,False,False,False,False,False
+Germany,False,False,False,False,False,False,False,False,False,False,False
+Greece,False,False,False,False,False,False,False,False,False,False,False
+Hungary,False,True,True,True,True,False,False,False,False,False,False
+Iceland,False,False,False,False,False,False,False,False,False,False,False
+India,False,False,False,False,False,False,False,False,False,False,False
+Indonesia,False,False,False,False,False,False,False,False,False,False,False
+Ireland,False,True,True,True,True,False,False,False,False,False,False
+Israel,False,False,False,False,False,False,False,False,False,False,False
+Italy,False,False,False,False,False,False,False,False,False,False,False
+Japan,False,False,False,False,False,False,False,False,False,False,False
+Jordan,True,True,True,False,False,False,False,False,False,False,False
+South Korea,False,False,False,False,False,False,False,False,False,False,False
+Latvia,False,True,True,True,True,False,False,False,False,False,False
+Lithuania,False,True,True,True,True,False,False,False,False,False,False
+Malaysia,False,False,False,False,False,False,False,False,False,False,False
+Mexico,False,False,False,False,False,False,False,False,False,False,False
+Netherlands,False,False,False,False,False,False,False,False,False,False,False
+New Zealand,False,False,False,False,False,False,False,False,False,False,False
+Norway,False,False,False,False,False,False,False,False,False,False,False
+Poland,False,False,False,False,False,False,False,False,False,False,False
+Portugal,False,False,False,False,False,False,False,False,False,False,False
+Romania,False,True,True,True,True,False,False,False,False,False,False
+Russia,False,False,False,False,False,False,False,False,False,False,False
+Slovakia,False,True,True,True,True,False,False,False,False,False,False
+Slovenia,False,True,True,True,True,False,False,False,False,False,False
+South Africa,False,False,False,False,False,False,False,False,False,False,False
+Spain,False,False,False,False,False,False,False,False,False,False,False
+Sweden,False,False,False,False,False,False,False,False,False,False,False
+Switzerland,False,False,False,False,False,False,False,False,False,False,False
+Thailand,False,False,False,False,False,False,False,False,False,False,False
+Turkey,False,False,False,False,False,False,False,False,False,True,True
+United States,False,False,False,False,False,False,False,False,False,False,False
+United Kingdom,False,False,False,False,False,False,False,False,False,False,False
+Uzbekistan,False,False,False,True,True,False,False,False,False,False,False
+Vietnam,False,False,False,False,False,False,False,False,False,False,False
